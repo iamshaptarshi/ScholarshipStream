@@ -85,13 +85,4 @@ Admins and moderators can manage scholarships, applications, reviews, and analyt
 
 ## 🔐 Environment Variables
 
-### 📁 Client (`.env`)
-```env
-VITE_FIREBASE_API_KEY=your_key
-VITE_FIREBASE_AUTH_DOMAIN=your_domain
-VITE_FIREBASE_PROJECT_ID=your_project_id
-VITE_FIREBASE_STORAGE_BUCKET=your_bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-VITE_FIREBASE_APP_ID=your_app_id
-
-VITE_STRIPE_PUBLIC_KEY=your_stripe_public_key
+Should Not Put it in GitHub but still put it so that you can run and check
